@@ -6,3 +6,4 @@ master commit
 =======
 feature1 content
 >>>>>>> feature1
+hello dev
